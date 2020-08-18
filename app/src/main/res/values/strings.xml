@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="no1">Number 1</string>
+    <string name="no2">Number 2</string>
+    <string name="button1">OK</string>
+    <string name="editTxt1">Enter1</string>
+    <string name="editTxt2">Enter2</string>
+    <string name="button2">+</string>
+    <string name="button3">-</string>
+    <string name="button4">*</string>
+    <string name="button5">/</string>
+    <string name="custom_toast_layout">This is a custom Toast</string>
+    <string name="ans">Answer</string>
+    <string name="enter2">Enter2</string>
+    <string name="enter1">Enter1</string>
+
+
+</resources>
